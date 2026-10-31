@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+<style>@keyframes pop{from{opacity:0;transform:scale(.8)}to{opacity:1;transform:none}}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes run{to{stroke-dashoffset:-500}}</style><g transform="translate(10,10)"><g style="animation:pop .6s 0.0s both,fl 4s 0.0s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#3178c6" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 0.0s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#3178c6" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#3178c6">TS</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">TypeScript</text></g></g><g transform="translate(186,10)"><g style="animation:pop .6s 0.15s both,fl 4s 0.15s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#61dafb" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 0.15s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#61dafb" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#61dafb">⚛</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">React</text></g></g><g transform="translate(362,10)"><g style="animation:pop .6s 0.3s both,fl 4s 0.3s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#888" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 0.3s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#888" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#888">N</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">Next.js</text></g></g><g transform="translate(538,10)"><g style="animation:pop .6s 0.44999999999999996s both,fl 4s 0.44999999999999996s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#5fa04e" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 0.44999999999999996s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#5fa04e" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#5fa04e">⬢</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">Node.js</text></g></g><g transform="translate(714,10)"><g style="animation:pop .6s 0.6s both,fl 4s 0.6s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#a855f7" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 0.6s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#a855f7" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#a855f7">⚡</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">Vite</text></g></g><g transform="translate(10,120)"><g style="animation:pop .6s 0.75s both,fl 4s 0.75s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#5a67d8" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 0.75s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#5a67d8" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#5a67d8">◭</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">Prisma</text></g></g><g transform="translate(186,120)"><g style="animation:pop .6s 0.8999999999999999s both,fl 4s 0.8999999999999999s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#3ecf8e" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 0.8999999999999999s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#3ecf8e" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#3ecf8e">⚡</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">Supabase</text></g></g><g transform="translate(362,120)"><g style="animation:pop .6s 1.05s both,fl 4s 1.05s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#009639" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 1.05s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#009639" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#009639">N</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">nginx</text></g></g><g transform="translate(538,120)"><g style="animation:pop .6s 1.2s both,fl 4s 1.2s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#888" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 1.2s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#888" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#888">▲</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">Vercel</text></g></g><g transform="translate(714,120)"><g style="animation:pop .6s 1.3499999999999999s both,fl 4s 1.3499999999999999s ease-in-out infinite">
+<rect width="160" height="92" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect width="160" height="92" rx="14" fill="none" stroke="#f7df1e" stroke-width="2" stroke-dasharray="80 420" style="animation:run 3s 1.3499999999999999s linear infinite"/>
+<circle cx="34" cy="46" r="18" fill="#f7df1e" opacity=".18"/><text x="34" y="52" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="800" font-size="15" fill="#f7df1e">JS</text>
+<text x="62" y="51" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#e6edf3">JavaScript</text></g></g></svg>
