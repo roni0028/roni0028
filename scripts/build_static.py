@@ -46,7 +46,7 @@ LINES=[('$ ','whoami'),('','ronicarlos — senior full stack dev · tech lead @ 
 ('$ ','cat stack.json | jq .'),('','{ "lang": ["TypeScript","JavaScript"], "front": ["React","Next.js","Vite"],'),
 ('','  "back": ["Node.js","Prisma","Supabase"], "infra": ["nginx","Vercel"] }'),
 ('$ ','nimo --status'),('','✔ community · AI studio · tournaments · subscription plans'),
-('','✔ media origin/CDN (nginx) · sales landing page'),
+('','✔ TypeScript full stack · sales landing page'),
 ('$ ','echo $OPEN_TO_WORK'),('','remote → 🇧🇷 Brazil · 🇺🇸 USA · 🇵🇹 Portugal'),('$ ','')]
 def term(t,m):
     rows=[];y=70;delay=0

@@ -29,13 +29,13 @@
 
 ### 🟣 Nimo Club — Tech Lead
 Community platform with an **AI studio**, **tournaments** and **subscription plans**.<br>
-`React + Vite` `Node.js` `Prisma` `Supabase`
+`TypeScript full stack`
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Media origin / CDN
-nginx-based media origin for Nimo Club, plus its **sales landing page**.<br>
-`nginx` `Vercel`
+### 🧰 Personal toolkit
+Skills I use across projects (not tied to a specific product).<br>
+`TypeScript` `React` `Next.js` `Node.js` `Prisma` `Supabase` `nginx` `Vercel`
 </td>
 </tr></table>
 
@@ -55,7 +55,9 @@ nginx-based media origin for Nimo Club, plus its **sales landing page**.<br>
 <summary><b>🇧🇷 Em português</b></summary>
 <br>
 
-Dev Full Stack Sênior e Tech Lead no **Nimo Club** (comunidade, Estúdio de IA, campeonatos e planos de assinatura). Trabalho com TypeScript, React, Next.js e Node.js, com Prisma, Supabase, nginx e Vercel.
+Dev Full Stack Sênior e Tech Lead no **Nimo Club** (comunidade, Estúdio de IA, campeonatos e planos de assinatura), com stack TypeScript full stack.
+
+Ferramentas que uso no dia a dia: TypeScript, React, Next.js, Node.js, Prisma, Supabase, nginx e Vercel.
 
 **Aberto a vagas remotas** — Brasil 🇧🇷, EUA 🇺🇸 e Portugal 🇵🇹. Contato: [LinkedIn](https://linkedin.com/in/roni0028).
 
